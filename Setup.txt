@@ -1,0 +1,55 @@
+Hello Bro!
+Plugin coding: Enes5519
+Hi, the installation of the plugin I'm telling you now.
+
+--------------------------------------------------
+|EGG WARS SHOP|
+EggWars Shop Setup: /ew market (Villager creates.)
+--------------------------------------------------
+
+--------------------------------------------------
+|EGG WARS GENERATOR|
+EggWars Generator Setup with Sign;
+
+-Iron Generator;
+First Line: generator
+Second Line: demir
+
+-Gold Generator;
+First Line: generator
+Second Line: altin
+Third Line: kirik
+
+-Diamond Generator;
+First Line: generator
+Second Line: elmas
+Third Line: kirik
+--------------------------------------------------
+
+--------------------------------------------------
+|EGG WARS SETUP|
+EggWars Help Commands
+»/ew olustur <arena> <team> <tbo> = "Create Arena!"
+»/ew ayarla <arena> <team> = "You set the location of the team!"
+»/ew lobi = <arena> = "You set the waiting lobby!"
+»/ew kaydet <arena> = "Save the arena!"
+»/ew market = "Create Shop!"
+--------------------------------------------------
+
+--------------------------------------------------
+|EGG WARS TEAMS|
+Translate Wool;
+MAVI = Blue Wool
+KIRMIZI = Red Wool
+ACIK-MAVI = Light-Blue Wool
+YESIL = Green Wool
+MOR = Purple Wool
+GRI = Gray Wool
+SARI = Yellow Wool
+TURUNCU = Orange Wool
+--------------------------------------------------
+
+--------------------------------------------------
+|EGG WARS TEAM EGG SETUP|
+Place the wool from the egg to the bottom of any team!
+--------------------------------------------------

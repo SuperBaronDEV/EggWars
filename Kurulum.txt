@@ -1,0 +1,54 @@
+Merhaba Kanka!
+Eklentiyi Kodlayan: Enes5519
+Öncelikle sizlere eklentinin kurulumunu anlatacağım.
+
+--------------------------------------------------
+|EGG WARS MARKET|
+EggWars Market Kurulumu: /ew market (Köylüyü oluşturur.)
+--------------------------------------------------
+
+--------------------------------------------------
+|EGG WARS JENERATÖR|
+EggWars Jeneratör Kurulumu;
+
+-Demir Jeneratörü; Tabelayı Alıp;
+İlk Satır: generator
+İkinci Satır: demir
+
+-Altın Jeneratörü; Tabelayı Alıp;
+İlk Satır: generator
+İkinci Satır: altin
+Üçüncü Satır: kirik
+
+-Diamond Generator; Tabelayı Alıp;
+İlk Satır: generator
+İkinci Satır: elmas
+Üçüncü Satır: kirik
+--------------------------------------------------
+
+--------------------------------------------------
+|EGG WARS KURULUMU|
+EggWars Yardım Komutları
+»/ew olustur <arena> <takim> <takimbasinaoyuncu> = "Arenayı oluşturur!"
+»/ew ayarla <arena> <takim> = "Takımın canlanma noktasını ayarlar!"
+»/ew lobi = <arena> = "Bekleme lobisini ayarlar!"
+»/ew kaydet <arena> = "Arenayı kaydeder!"
+»/ew market = "Market Köylüsünü oluşturur!"
+--------------------------------------------------
+
+--------------------------------------------------
+|EGG WARS TAKIMLARI|
+MAVI = Blue Wool
+KIRMIZI = Red Wool
+ACIK-MAVI = Light-Blue Wool
+YESIL = Green Wool
+MOR = Purple Wool
+GRI = Gray Wool
+SARI = Yellow Wool
+TURUNCU = Orange Wool
+--------------------------------------------------
+
+--------------------------------------------------
+|EGG WARS TAKIM YUMURTA KURULUMU|
+Takım yünlerinden birisini koyup üstüne yumurtayı yerleştirin. 
+--------------------------------------------------
