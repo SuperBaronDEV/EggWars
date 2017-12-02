@@ -12,7 +12,7 @@ use pocketmine\utils\Config;
 class Hub extends Command{
 
     public function __construct(){
-        parent::__construct("hub", "Huba ışınlanırsınız");
+        parent::__construct("hub", "Hub'a ışınlanırsınız");
         $this->setAliases(array("lobi", "lobby", "spawn"));
     }
 

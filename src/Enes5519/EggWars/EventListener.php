@@ -24,14 +24,12 @@ use pocketmine\block\Block;
 use pocketmine\math\Vector3;
 use pocketmine\utils\Config;
 use pocketmine\inventory\{
-    ChestInventory
+    ChestInventory, transaction\action\SlotChangeAction
 };
 
 class EventListener implements Listener{
 
     public $sd = array();
-    public function __construct(){
-    }
     
     public function sohbet(PlayerChatEvent $e){
         $o = $e->getPlayer();
@@ -442,7 +440,10 @@ class EventListener implements Listener{
     
     public function alisverisYapma(InventoryTransactionEvent $e){
         $main = EggWars::getInstance();
-        foreach ($e->getQueue()->getTransactions() as $t) {
+        foreach ($e->getTransaction()->getActions() as $t) {
+            if(!$t instanceof SlotChangeAction){
+                continue;
+            }
             $env = $t->getInventory();
             if ($env instanceof ChestInventory) {
                 foreach ($env->getViewers() as $o) {
