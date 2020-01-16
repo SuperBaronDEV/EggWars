@@ -1,6 +1,6 @@
 <?php
 
-namespace Enes5519\EggWars;
+namespace SuperBaronDEV\EggWars;
 
 use Enes5519\EggWars\Komutlar\{Hub, EW};
 use Enes5519\EggWars\Islemler\{
