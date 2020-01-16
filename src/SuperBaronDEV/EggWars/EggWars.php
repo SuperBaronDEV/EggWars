@@ -1,9 +1,9 @@
 <?php
 
-namespace Enes5519\EggWars;
+namespace SuperBaronDEV\EggWars;
 
-use Enes5519\EggWars\Komutlar\{Hub, EW};
-use Enes5519\EggWars\Islemler\{
+use SuperBaronDEV\EggWars\Komutlar\{Hub, EW};
+use SuperBaronDEV\EggWars\Islemler\{
     OyunTask, TabelaTask
 };
 use pocketmine\item\Item;
